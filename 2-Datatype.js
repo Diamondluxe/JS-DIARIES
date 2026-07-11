@@ -1,11 +1,11 @@
-let string = "Javascript";
-let number = 10;
-let boolean = true;
-let float = 3.14;
-let marks;
-let phone = null;
-let fruits = ["apple", "banana", "mango", "grapes"];
-let person = {
+let string = "Javascript"; //string
+let number = 10;  //integer
+let boolean = true;  //boolean
+let float = 3.14;  //float
+let marks;    //undefined
+let phone = null;   //null
+let fruits = ["apple", "banana", "mango", "grapes"];  //array
+let person = {    //object
     name: "Dua Sheikh",
     age: 18,
     gpa: 3.95,
